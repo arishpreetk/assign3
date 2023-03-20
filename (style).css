@@ -1,0 +1,32 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+  body{
+     background-image: url(download.jpeg);
+     background-repeat: no-repeat;
+     background-size:100%;
+    background-color: antiquewhite;
+   }
+  h1{
+    color: red;
+    
+    
+  }
+  h2{
+    color: blue;
+  }
+  .navbar{
+    background-color: black;
+  }
+  .navbar ul {
+    display:flex;
+  list-style: none;
+    
+  }
+  
+  .navbar ul li{
+    margin:25px;
+    color: white;
+  }
+  
